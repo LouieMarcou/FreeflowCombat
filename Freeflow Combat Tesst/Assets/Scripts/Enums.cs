@@ -1,0 +1,1 @@
+public enum CharacterState { alive, dead}; 
